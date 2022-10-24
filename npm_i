@@ -1,0 +1,5 @@
+npm init -y - me instalu package.json
+npm i jsonwebtoken
+npm i express     
+
+npm i --save-dev nodemon - per mos me bo restart serverin kur ndyshojna diqka
